@@ -220,6 +220,8 @@ body {
 
   /* Mobile Phones: */
 
+  /*NOT SURE IF I DID THIS PART RIGHT SINCE THERE ARE ERROR LINES UNDER SOME OF THE MEDIA QUERIES*/
+
   @media screen and (max-width: 980px) 
 
   @media screen and (max-width: 768px)
