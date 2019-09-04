@@ -219,9 +219,14 @@ body {
   }
 
   /* Mobile Phones: */
-  
-  @media only screen and (max-width: 980px)
-  
-  @media only screen and (max-width: 768px) 
 
-  @media only screen and (max-width: 640px) 
+  @media screen and (max-width: 980px) 
+
+  @media screen and (max-width: 768px)
+
+  @media screen and (max-width: 640px) {
+      #masthead {
+          position: fixed;
+          top: 0;
+      }
+  }
